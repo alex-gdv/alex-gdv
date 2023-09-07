@@ -14,4 +14,4 @@ i'm looking to collaborate on open source ML projects!
 
 here are some links:
 
-[Devpost profile](https://devpost.com/alex-gdv) with one winning project.
+Devpost [profile](https://devpost.com/alex-gdv) with one winning project.
