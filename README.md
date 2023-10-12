@@ -1,4 +1,4 @@
-### Hello there 👋
+### hello there 👋
 
 i'm a CS and Maths postgrad looking for jobs. i'm passionate about machine learning and data science. if you have any openings, please contact me!
 
