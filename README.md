@@ -1,6 +1,6 @@
 ### hello there 👋
 
-i'm a CS and Maths postgrad looking for jobs. i'm passionate about machine learning and data science. if you have any openings, please contact me!
+i'm a CS and Maths postgrad looking for jobs. i'm passionate about machine learning, data science, and good software engineering! if you have any openings, please contact me.
 
 currently, [adamcread](https://github.com/adamcread) and i are working on the Kaggle competition [_NeurIPS 2023 - Machine Unlearning_](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning).
 
