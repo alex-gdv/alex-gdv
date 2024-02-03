@@ -1,13 +1,19 @@
 ### hello there 👋
 
-i'm a CS and Maths postgrad looking for jobs. i'm passionate about machine learning, data science, and good software engineering! if you have any openings, please contact me.
+i'm a Computer Science + Maths postgrad based in London. 
+i'm passionate about machine learning, cool data science projects, and challenging software engineering problems.
 
-currently, [adamcread](https://github.com/adamcread) and i are working on the Kaggle competition [_NeurIPS 2023 - Machine Unlearning_](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning).
+currently, i'm open to full-time work and freelancing opportunities. 
+please get in contact if you're interested: alex-gdv@proton.me
 
-i'm also learning AWS and working to earn the _AWS Certified Cloud Practitioner_ certification.
+currently, a peer and i are working on the Kaggle competition [_NeurIPS 2023 - Machine Unlearning_](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning). 
+you can find the project in my pinned repos.
 
-i'm reading the following book: [_An Introduction to Statistical Learning with Applications in Python_](https://www.statlearning.com/). you can find my notes and completed exercises [here](https://github.com/alex-gdv/islp-notes).
+i have been hopping back and forth between the following books:
+- [_An Introduction to Statistical Learning with Applications in Python_](https://www.statlearning.com/), 
+- [_Pattern Recognition and Machine Learning_}(https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/),
+- and [_Reinforcement Learning: An Introduction_](http://incompleteideas.net/book/the-book-2nd.html).
 
-i'm looking to collaborate on open source ML projects!
+i'm learning AWS and Django too.
 
-here's my Devpost [profile](https://devpost.com/alex-gdv) with one winning project.
+soon i'll be a PyTorch contributor!
