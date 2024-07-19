@@ -1,10 +1,7 @@
 ### hello there 👋
 
 i'm a machine learning research engineer based in London.
-i'm passionate about machine learning, cool data science projects, and challenging software engineering problems.
-
-currently, i'm open to new opportunities.
-please get in contact if you're interested: alex-gdv@proton.me
+at the moment, i'm excited and passionate about reinforcement learning and automatic differentiation.
 
 currently, a peer and i are working on the Kaggle competition [_NeurIPS 2023 - Machine Unlearning_](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning). 
 you can find the project in my pinned repos.
