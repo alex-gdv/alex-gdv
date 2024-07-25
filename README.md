@@ -1,7 +1,7 @@
 ### hello there 👋
 
 i'm a machine learning research engineer based in London.
-at the moment, i'm excited and passionate about reinforcement learning and automatic differentiation.
+at the moment, i'm excited and passionate about reinforcement learning and how NNs train.
 
 currently, a peer and i are working on the Kaggle competition [_NeurIPS 2023 - Machine Unlearning_](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning). 
 you can find the project in my pinned repos.
