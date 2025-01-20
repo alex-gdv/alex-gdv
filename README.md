@@ -1,7 +1,7 @@
 ### hello there 👋
 
-i'm a machine learning engineer based in London.
-at the moment, i'm excited and passionate about reinforcement learning and how NNs train.
+i'm a research-oriented machine learning engineer based in London, UK and Sevilla, Spain.
+i enjoy learning about ML theory, particularly optimisation methods.
 
 currently, a peer and i are working on the Kaggle competition [_NeurIPS 2023 - Machine Unlearning_](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning). 
 you can find the project in my pinned repos.
