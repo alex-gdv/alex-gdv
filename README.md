@@ -1,12 +1,13 @@
 ### hello there 👋
 
 i'm a research-oriented machine learning engineer based in London, UK and Sevilla, Spain.
-i enjoy learning about ML theory, particularly optimisation methods.
+i lead the research and development of an ML system for renewable energy site assessment at [Local Energy Systems](https://www.localenergysystems.co.uk/).
+
+i enjoy...
+- learning about ML theory, particularly optimisation methods and reinforcement learning,
+- reading and presenting research papers,
+- going down rabbit holes and learning anything and everything about a problem,
+- and spending time with kind and intelligent people.
 
 currently, a peer and i are working on the Kaggle competition [_NeurIPS 2023 - Machine Unlearning_](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning). 
-you can find the project in my pinned repos.
-
-i have been hopping back and forth between the following books: 
-[_An Introduction to Statistical Learning with Applications in Python_](https://www.statlearning.com/), 
-[_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/), 
-and [_Reinforcement Learning: An Introduction_](http://incompleteideas.net/book/the-book-2nd.html).
+you can find the project in my pinned repos. i'm also aiming to contribute to PyTorch!
